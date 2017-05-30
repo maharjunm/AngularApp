@@ -1,0 +1,14 @@
+{
+  "name": "sample-angular-app",
+  "version": "1.0.0",
+  "description": "Sample app for creating Angular App",
+  "repository": "https://github.com/maharjunm/AngularApp.git",
+  "devDependencies": {
+    "angular": "~1.2.19",
+    "jquery": "~2.2.0"
+  },
+  "scripts": {
+    "minify": "minify angular-drag-and-drop-lists.js",
+    "start": "http-server -p 8000"
+  }
+}
